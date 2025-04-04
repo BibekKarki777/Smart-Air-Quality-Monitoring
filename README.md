@@ -20,12 +20,12 @@ Designed and developed a Smart Air Quality Monitoring System (prototype) that le
 
 ## Tools & Technologies
 
-* **Arduino C/C++**,
-* **Tinkercad**,
-* **IoT architecture** (Perception-Network-Application layers), 
-* **LCD**, 
+* **Arduino C/C++**
+* **Tinkercad**
+* **IoT architecture** (Perception-Network-Application layers)
+* **LCD**
 * **LEDs**
-* **sensors**,
+* **sensors**
 * **power-saving modules**
 
 ## Outcome
