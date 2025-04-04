@@ -1,4 +1,7 @@
 # IOT Based Smart-Air-Quality-Monitoring System
+
+![](https://github.com/BibekKarki777/Smart-Air-Quality-Monitoring/blob/main/smart%20Air%20Quality%20monitoring%20system.png)
+
 ## Description
 
 Designed and developed a Smart Air Quality Monitoring System (prototype) that leverages IoT technology, environmental sensors, and Arduino microcontrollers to provide air quality analysis. This system continuously tracks parameters such as temperature, humidity, pressure, and air pollution levels (AQI), categorizing air quality into Good, Moderate, and Poor using a color-coded LED system and audible alerts.
